@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.98ec47ca.css",
-    "main.js": "/static/js/main.57f6ad72.js",
+    "main.js": "/static/js/main.79465d1d.js",
     "static/media/login_image.jpg": "/static/media/login_image.af3ab9961eeef4612383.jpg",
     "static/media/IDAEUX LOGO.png": "/static/media/IDAEUX LOGO.3b5f5728c92bbbd070de.png",
     "static/media/bglogin1.png": "/static/media/bglogin1.496cede8befb9eb38ed1.png",
@@ -38,10 +38,10 @@
     "static/media/completed.svg": "/static/media/completed.2a522b1ddfa649337c28ba92ceaa2337.svg",
     "static/media/editIcon.svg": "/static/media/editIcon.3d61bcd54f105161ab77cd75d7e94d80.svg",
     "main.98ec47ca.css.map": "/static/css/main.98ec47ca.css.map",
-    "main.57f6ad72.js.map": "/static/js/main.57f6ad72.js.map"
+    "main.79465d1d.js.map": "/static/js/main.79465d1d.js.map"
   },
   "entrypoints": [
     "static/css/main.98ec47ca.css",
-    "static/js/main.57f6ad72.js"
+    "static/js/main.79465d1d.js"
   ]
 }
